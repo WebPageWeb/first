@@ -1,0 +1,40 @@
+h1,h2
+{
+	text-align: center;
+	margin:0px; 
+	padding: 10px;
+	color:white;
+	background-color: #000;
+}
+label{
+	font-size: 30px;
+	font-style: bold;
+	font-style: italic;
+}
+ul {
+	text-align: center;
+	list-style: none;
+	padding: 10px;
+	background-color: #DDD;
+	margin: 0;
+}
+ul li{
+display: inline;
+padding:80px;
+
+}
+img{
+	width: 400px;
+	border-color: black;
+	border: 2;
+	padding: 10px;
+}
+p{
+	text-align: center;
+	font-size: 20px;
+	background-color: yellow;
+}
+textarea{
+	margin-bottom: 100px;
+	font-size: 20px;
+}
